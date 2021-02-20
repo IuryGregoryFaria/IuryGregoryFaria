@@ -16,4 +16,4 @@ Sou desenvolvedor fullstack, gerente de tecnologia/inovacao, gerenciamento de eq
 
 ##
 
-![IuryGregoryFAriaGithub stats](https://github-readme-stats.vercel.app/api?username=IurygregoryFaria&show_icons=true&theme=dracula)     [![IuryGregoryFariaGithub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IuryGregoryFaria&layout=compact)](https://github.com/IuryGregoryFaria/IuryGregoryFaria/github-readme-stats)
+![IuryGregoryFAriaGithub stats](https://github-readme-stats.vercel.app/api?username=IurygregoryFaria&show_icons=true&theme=dracula)     [![IuryGregoryFariaGithub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IuryGregoryFaria&layout=compact)](https://github.com/IuryGregoryFaria/github-readme-stats)
