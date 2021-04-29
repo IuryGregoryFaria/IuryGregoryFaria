@@ -2,11 +2,12 @@
 
 ### Me chamo Iury Gregory!
 
-Sou desenvolvedor fullstack, gerente de tecnologia/inovacao, gerenciamento de equipes de desenvolvimento, infraestrutura e cloud, tenho 24 anos. Atualmente moro no estado de MG.
+Sou desenvolvedor fullstack/devops entrando no mundo de segurança da informação, gerente de tecnologia, gerenciamento de equipes de desenvolvimento, infraestrutura e cloud, tenho 24 anos. Atualmente moro no estado de MG.
 
 ### 💾 Meus objetivos 💾 : 
 * Dominar as tecnologias mais novas.🔥
 * Gerenciar projetos grandes.🔥
+* Ser um hacker ético.
 * E essa lista vai crescer cada vez mais! 🏃
 
 ##
@@ -14,14 +15,14 @@ Sou desenvolvedor fullstack, gerente de tecnologia/inovacao, gerenciamento de eq
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryGregoryFaria&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryGregoryFaria&layout=compact&theme=dracula"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=IuryGregoryFaria&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=IuryGregoryFaria&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
     />
   </a>
 </p>
