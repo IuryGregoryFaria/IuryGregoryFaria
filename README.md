@@ -1,7 +1,6 @@
 ## Olá visitante! Seja bem vindo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-Me chamo Iury Gregory!
-Sou desenvolvedor fullstack/devops entrando no mundo de segurança da informação, gerente de tecnologia, gerenciamento de equipes de desenvolvimento, infraestrutura e cloud, tenho 24 anos. Atualmente moro no estado de MG.
+Me chamo Iury Gregory! Sou desenvolvedor fullstack/devops entrando no mundo de segurança da informação. Atualmente sou gerente de tecnologia, faço gerenciamento de equipes de desenvolvimento, infraestrutura e cloud. Tenho 24 anos, moro em Minas Gerais, e em apenas uma palavra me defino como entusiasta.
 
 ##
 <p align="center">
@@ -76,10 +75,10 @@ Sou desenvolvedor fullstack/devops entrando no mundo de segurança da informaç�
 </p>
 
 ## Meus objetivos: 💾
-* 👨‍💻 Dominar as tecnologias mais novas.
-* 🔥 Gerenciar projetos grandes.
-* 💙 Ser um hacker ético reconhecido.
-* 🏃 E essa lista vai crescer cada vez mais!
+* 👨‍💻 Dominar tecnologias mais novas.
+* 🔥 Gerenciar grandes projetos.
+* 💙 Ser um hacker reconhecido e ético.
+* 🏃 Deixar as oportunidades crescer essa lista cada vez mais!
 
 ## Contact :iphone:
 
