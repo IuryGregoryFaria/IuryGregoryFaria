@@ -7,7 +7,7 @@ Sou desenvolvedor fullstack/devops entrando no mundo de segurança da informaç�
 ### 💾 Meus objetivos 💾 : 
 * Dominar as tecnologias mais novas.🔥
 * Gerenciar projetos grandes.🔥
-* Ser um hacker ético.
+* Ser um hacker ético reconhecido.
 * E essa lista vai crescer cada vez mais! 🏃
 
 ##
