@@ -3,12 +3,6 @@
 Me chamo Iury Gregory!
 Sou desenvolvedor fullstack/devops entrando no mundo de segurança da informação, gerente de tecnologia, gerenciamento de equipes de desenvolvimento, infraestrutura e cloud, tenho 24 anos. Atualmente moro no estado de MG.
 
-## Meus objetivos: 💾
-* 👨‍💻 Dominar as tecnologias mais novas.
-* 🔥 Gerenciar projetos grandes.
-* 💙 Ser um hacker ético reconhecido.
-* 🏃 E essa lista vai crescer cada vez mais!
-
 ##
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -80,6 +74,12 @@ Sou desenvolvedor fullstack/devops entrando no mundo de segurança da informaç�
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
    
 </p>
+
+## Meus objetivos: 💾
+* 👨‍💻 Dominar as tecnologias mais novas.
+* 🔥 Gerenciar projetos grandes.
+* 💙 Ser um hacker ético reconhecido.
+* 🏃 E essa lista vai crescer cada vez mais!
 
 ## Contact :iphone:
 
