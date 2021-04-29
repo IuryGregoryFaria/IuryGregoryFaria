@@ -10,9 +10,21 @@ Sou desenvolvedor fullstack, gerente de tecnologia/inovacao, gerenciamento de eq
 * E essa lista vai crescer cada vez mais! 🏃
 
 ##
-
-![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=IuryGregoryFaria&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IuryGregoryFaria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryGregoryFaria&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=IuryGregoryFaria&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
 
 
 ## Skills :nerd_face:
