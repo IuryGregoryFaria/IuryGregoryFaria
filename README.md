@@ -5,22 +5,19 @@
 <h1 align="center">Iury Gregory</h1>
 
 <p align="center">
-  <a href="https://twitter.com/GelzienyRM/">
-    <img alt="Siga no Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GelzienyRM/">
-  </a>
 
-  <a href="https://www.facebook.com/gelzieny/" alt="Facebook">
-    <img src="https://img.shields.io/badge/-Facebook-4169E1?style=flat-square&labelColor=4169E1&logo=facebook&logoColor=white&link=https://www.facebook.com/gelzieny/"/>
+  <a href="https://www.facebook.com/iGregory.F.A/" alt="Facebook">
+    <img src="https://img.shields.io/badge/-Facebook-4169E1?style=flat-square&labelColor=4169E1&logo=facebook&logoColor=white&link=https://www.facebook.com/iGregory.F.A/"/>
   </a>
   
-   <a href="https://www.instagram.com/gelzieny/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gelzieny/"/>   </a>
+   <a href="https://www.instagram.com/iury.gregory/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/iury.gregory/"/>   </a>
  
- <a href="https://www.linkedin.com/in/gelzieny-r-martins-180551106/">
-    <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gelzieny-r-martins-180551106/">
+ <a href="https://www.linkedin.com/in/iury-gregory-6924b4168/">
+    <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iury-gregory-6924b4168/">
   </a>
   
-  <a href="https://app.rocketseat.com.br/me/gelzieny-1566679543/">
+  <a href="https://app.rocketseat.com.br/me/iurygregory">
     <img alt="Stargazers" src="https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=flat&logo=ghost">
   </a>  
 </p>
@@ -109,27 +106,6 @@
 * 🔥 Gerenciar grandes projetos.
 * 💙 Ser um hacker reconhecido e ético.
 * 🏃 Deixar as oportunidades crescer essa lista cada vez mais!
-
-
-## Contact :iphone:
-
-<p align="center">
-    <a href="https://www.facebook.com/iGregory.F.A/">
-        <img  src="https://img.shields.io/badge/facebook-3696d1?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/iGregory.F.A/">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:iurygregory@hotmail.com">
-        <img src="https://img.shields.io/badge/hotmail-3696d1?&style=for-the-badge&logo=microsoft&logoColor=white&link=mailto:iurygregory@hotmail.com">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/iury-gregory-6924b4168/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/iury-gregory-6924b4168/">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/iury.gregory/">
-        <img src="https://img.shields.io/badge/instagram-db2424?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iury.gregory/">
-    </a>
-</p>
 
 <p align="center"> 
 
