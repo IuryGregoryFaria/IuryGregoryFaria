@@ -103,6 +103,10 @@ Me chamo Iury Gregory! Sou desenvolvedor backend/devops entrando no mundo de seg
 <p align="center"> 
 
  ## Total de Visitas no perfil :detective: <br>
- ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=IuryGregoryFaria&repo=IuryGregoryFaria&countColorcountColor)
+ <p align="center">
+  <a href="#">
+      <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=IuryGregoryFaria&repo=github-visitors-badge&countColor=%237B1E7A" />
+   </a>
+</p>
 
 </p>
