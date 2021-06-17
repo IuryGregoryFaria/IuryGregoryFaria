@@ -29,24 +29,6 @@
 </h4>
 <br>
 
-##
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryGregoryFaria&layout=compact&theme=dracula"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=IuryGregoryFaria&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
-    />
-  </a>
-</p>
-
-
 ## Skills :nerd_face:
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
