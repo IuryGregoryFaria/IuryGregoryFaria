@@ -24,7 +24,7 @@
 <br>
 
 <h4 align="center"> 
-	🚧 Me chamo Iury Gregory! Sou desenvolvedor backend/devops entrando no mundo de segurança da informação. Atualmente sou gerente de tecnologia, faço gerenciamento de equipes de desenvolvimento, infraestrutura e cloud. Tenho 26 anos, moro em Minas Gerais, e em apenas uma palavra me defino como entusiasta. 😃
+	🚧 Me chamo Iury Gregory! Sou desenvolvedor backend/devops entrando no mundo de segurança da informação. Atualmente sou gerente de tecnologia, faço gerenciamento de equipes de desenvolvimento, infraestrutura e cloud. Tenho 26 anos, moro em Minas Gerais, e em apenas uma palavra me defino como entusiasta.😃
 	
 </h4>
 <br>
