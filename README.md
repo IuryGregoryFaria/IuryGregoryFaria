@@ -1,9 +1,8 @@
 ## Olá visitante! Seja bem vindo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-
 <img align="right" src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/user.png?raw=true" width="300"/>
 
-<h1 align="center">Gelzieny Rezende Martins</h1>
+<h1 align="center">Iury Gregory</h1>
 
 <p align="center">
   <a href="https://twitter.com/GelzienyRM/">
