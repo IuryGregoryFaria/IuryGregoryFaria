@@ -91,11 +91,23 @@
 
 <p align="center"> 
 
- ## Total de Visitas no perfil :detective: <br>
+ ## Visitas :detective: <br>
  <p align="center">
   <a href="#">
       <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=IuryGregoryFaria&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7" />
    </a>
 </p>
+
+<table align='left'>
+  <row>
+    <td>
+     <!-- Card -->
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=IuryGregoryFaria&layout=compact&theme=dark'>
+    </td>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=IuryGregoryFaria&show_icons=true&theme=dark'>
+    </td>
+  </row>
+</table>
 
 </p>
