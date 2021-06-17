@@ -104,7 +104,7 @@ Me chamo Iury Gregory! Sou desenvolvedor backend/devops entrando no mundo de seg
 
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/IuryGregoryFaria/count.svg" />
+   ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=IuryGregoryFaria&repo=IuryGregoryFaria&countColorcountColor)
  </p>
 
 </p>
